@@ -1,0 +1,18 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  align-items: center;
+  background-color: blueviolet;
+  padding: 0 15px;
+  font-size: 1.3rem;
+}
+
+.linkStyle {
+  text-decoration: none;
+  color: white;
+}
+
+.linkStyle:hover {
+  color: gray;
+}
